@@ -1,6 +1,16 @@
 # BeginnerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+This project includes:
+- Installation & the Angular CLI
+- Templating
+- Styling
+- Components
+- Event binding
+- Property binding
+- Services
+- HTTP Client
+- Forms
 
 ## Development server
 
